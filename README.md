@@ -1,2 +1,2 @@
-# Afet-Yard-m-Takip-Sistemi-
+# Afet-Yardım-Takip-Sistemi-
 C dilinde yazılmış  afet yardım takip sistemi projesi.
